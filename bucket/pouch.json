@@ -25,5 +25,10 @@
                 "url": "https://github.com/leaker/pouch/releases/download/v$version/Pouch-$version.zip"
             }
         }
-    }
+    },
+    "persist": [
+        "hook.conf.toml",
+        "inject",
+        "overrides"
+    ]
 }
