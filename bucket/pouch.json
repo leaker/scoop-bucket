@@ -1,6 +1,6 @@
 {
     "version": "2.0.1",
-    "description": "Desktop webview wrapper for web games with MITM proxy and script injection",
+    "description": "Desktop browser for tweaking any site — inject scripts, swap resources, persist overrides",
     "homepage": "https://github.com/leaker/pouch",
     "license": "MIT",
     "architecture": {

@@ -4,9 +4,9 @@ Multi-product [Scoop](https://scoop.sh) bucket for [leaker](https://github.com/l
 
 ## Available manifests
 
-| App   | Description                                                                | Upstream                                  |
-|-------|----------------------------------------------------------------------------|-------------------------------------------|
-| pouch | Desktop webview wrapper for web games with MITM proxy and script injection | https://github.com/leaker/pouch           |
+| App   | Description                                                                          | Upstream                                  |
+|-------|--------------------------------------------------------------------------------------|-------------------------------------------|
+| pouch | Desktop browser for tweaking any site — inject scripts, swap resources, persist overrides | https://github.com/leaker/pouch           |
 
 ## Install
 
