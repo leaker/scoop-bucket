@@ -1,12 +1,12 @@
 {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "description": "Desktop webview wrapper for web games with MITM proxy and script injection",
     "homepage": "https://github.com/leaker/pouch",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/leaker/pouch/releases/download/v2.0.0/Pouch-2.0.0.zip",
-            "hash": "ee21b638a3a7f266f9f9aa52acc095dcea83a6110846aa2c2a3bec191816a564"
+            "url": "https://github.com/leaker/pouch/releases/download/v2.0.1/Pouch-2.0.1.zip",
+            "hash": "dae534e503a78b30ac89104f1f55f743aa79decb832db1474d3e519919fecf6d"
         }
     },
     "bin": "pouch.exe",
