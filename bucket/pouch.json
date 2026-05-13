@@ -1,12 +1,12 @@
 {
-    "version": "2.0.1",
-    "description": "Desktop browser for tweaking any site — inject scripts, swap resources, persist overrides",
+    "version": "2.1.1",
+    "description": "Desktop browser for tweaking any site \u2014 inject scripts, swap resources, persist overrides",
     "homepage": "https://github.com/leaker/pouch",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/leaker/pouch/releases/download/v2.0.1/Pouch-2.0.1.zip",
-            "hash": "dae534e503a78b30ac89104f1f55f743aa79decb832db1474d3e519919fecf6d"
+            "url": "https://github.com/leaker/pouch/releases/download/v2.1.1/Pouch-2.1.1.zip",
+            "hash": "d02532551903313b68944bbfd34394a00d752ea3766388c4feddc9f3af33e821"
         }
     },
     "bin": "pouch.exe",
