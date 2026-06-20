@@ -1,0 +1,23 @@
+{
+    "version": "0.1.0",
+    "description": "A cron-style scheduler for Windows services (run under nssm)",
+    "homepage": "https://github.com/leaker/wincron",
+    "license": "MIT",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/leaker/wincron/releases/download/v0.1.0/wincron-0.1.0-windows-amd64.zip",
+            "hash": "8d06a6303f1a7f9be37379acffe64f33b5f5965da0cecb03af653e2db3ba0091"
+        }
+    },
+    "bin": "wincron.exe",
+    "checkver": {
+        "github": "https://github.com/leaker/wincron"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/leaker/wincron/releases/download/v$version/wincron-$version-windows-amd64.zip"
+            }
+        }
+    }
+}
