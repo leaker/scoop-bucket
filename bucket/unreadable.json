@@ -1,12 +1,12 @@
 {
-    "version": "0.1.0",
+    "version": "0.2.0",
     "description": "Scan a directory for unreadable files: locked, no-permission, path-too-long or I/O errors",
     "homepage": "https://github.com/leaker/unreadable",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/leaker/unreadable/releases/download/v0.1.0/unreadable-0.1.0-windows-amd64.zip",
-            "hash": "ed6b9257f3c7ea28d5b9adca371a04b78e816a7538f2695d33c90282124645d0"
+            "url": "https://github.com/leaker/unreadable/releases/download/v0.2.0/unreadable-0.2.0-windows-amd64.zip",
+            "hash": "4fc1307ad307369f91637cb6a5a6e9db1a77066c989ee0545c3694c6076b5aee"
         }
     },
     "bin": "unreadable.exe",
